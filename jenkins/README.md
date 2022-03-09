@@ -7,14 +7,14 @@
 - [PIPELINE](#pipeline)
 - [Contributing](../CONTRIBUTING.md)
 
-## SOBRE <a name = "about"></a>
+## SOBRE <a name = "sobre"></a>
 
 Instalação de uma versao do jenkins em cima do docker
 
 ### Pre-requisitos
 
 1. Uma maquina virtual
-2. Atualizao os pacotes. Exemplo: `sudo apt update`
+2. Atualizado os pacotes. Exemplo: `sudo apt update`
 
 ## COMANDOS <a name = "comandos"></a>
 
@@ -43,7 +43,7 @@ Apos a instalação é gerado uma senha (hash) no terminal. Salve essa senha.
 
 Abra o navegador no ` http://endereco:8080`
 
-## PIPILINE <a name = "pipeline"></a>
+## PIPELINE <a name = "pipeline"></a>
 
 - A cada hora
 
