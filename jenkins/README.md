@@ -11,6 +11,11 @@
 
 Instalação de uma versao do jenkins em cima do docker
 
+### Pre-requisitos
+
+1. Uma maquina virtual
+2. Atualizao os pacotes. Exemplo: `sudo apt update`
+
 ## COMANDOS <a name = "comandos"></a>
 
 Usando a imagem oficial do jenkins
@@ -32,7 +37,11 @@ OPCOES
 
 ```
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+## COMO ACESSAR
+
+Apos a instalação é gerado uma senha (hash) no terminal. Salve essa senha.
+
+Abra o navegador no ` http://endereco:8080`
 
 ## PIPILINE <a name = "pipeline"></a>
 
