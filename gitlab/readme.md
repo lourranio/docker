@@ -9,6 +9,7 @@ Caso nao deseje criar o volume, basta remover a linha.
 
 Exemplo: 
   1. Antes - com Volume Docker
+
      docker run --detach \
   --publish 1443:443 --publish 8080:80 --publish 1001:22 \
   --name gitlab \
@@ -20,6 +21,8 @@ Exemplo:
   gitlab/gitlab-ce:latest
   
   2. Depois - Sem Volume
+
+
      docker run --detach \
   --publish 1443:443 --publish 8080:80 --publish 1001:22 \
   --name gitlab \
