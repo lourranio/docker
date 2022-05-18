@@ -19,7 +19,8 @@ Exemplo:
       --volume gitlab_logs:/var/log/gitlab \
       --volume gitlab_data:/var/opt/gitlab \
       --shm-size 2gb \
-      gitlab/gitlab-ce:latest ```
+      gitlab/gitlab-ce:latest 
+     ```
 
   
   
@@ -32,4 +33,5 @@ Exemplo:
       --name gitlab \
       --restart always \
       --shm-size 2gb \
-      gitlab/gitlab-ce:latest ```
+      gitlab/gitlab-ce:latest
+     ```
