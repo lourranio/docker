@@ -10,7 +10,7 @@ Caso nao deseje criar o volume, basta remover a linha.
 Exemplo: 
   1. Antes - com Volume Docker
 
-     docker run --detach \
+     ``` docker run --detach \
   --publish 1443:443 --publish 8080:80 --publish 1001:22 \
   --name gitlab \
   --restart always \
@@ -18,15 +18,16 @@ Exemplo:
   --volume gitlab_logs:/var/log/gitlab \
   --volume gitlab_data:/var/opt/gitlab \
   --shm-size 2gb \
-  gitlab/gitlab-ce:latest
+  gitlab/gitlab-ce:latest ```
+  
   
   2. Depois - Sem Volume
 
 
-     docker run --detach \
+     ```docker run --detach \
   --publish 1443:443 --publish 8080:80 --publish 1001:22 \
   --name gitlab \
   --restart always \
   --shm-size 2gb \
-  gitlab/gitlab-ce:latest
+  gitlab/gitlab-ce:latest```
     
