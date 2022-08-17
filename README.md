@@ -19,3 +19,7 @@ docker push <user-docker-hub>/<app>:<versao>
   <img alt="logo-ls" title="logo-ls" src="https://raw.githubusercontent.com/sangam14/dockercheatsheets/master/dockercheatsheet1.png">
     </span>
 </div><br>
+
+
+## Install and configure a multi-master Kubernetes cluster with kubeadm
+```https://dockerlabs.collabnix.com/kubernetes/beginners/Install-and-configure-a-multi-master-Kubernetes-cluster-with-kubeadm.html```
