@@ -23,3 +23,8 @@ docker push <user-docker-hub>/<app>:<versao>
 
 ## Install and configure a multi-master Kubernetes cluster with kubeadm
 ```https://dockerlabs.collabnix.com/kubernetes/beginners/Install-and-configure-a-multi-master-Kubernetes-cluster-with-kubeadm.html```
+
+  <span align="center">
+  <img alt="logo-ls" title="logo-ls" src="https://raw.githubusercontent.com/apurvabhandari/kubernetes/master/multi-master-with-HA.png">
+    </span>
+</div><br>
