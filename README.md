@@ -8,3 +8,14 @@ docker commit <id>
 docker tag <id> <user-docker-hub>/<app>:<versao>
 docker push <user-docker-hub>/<app>:<versao>
 ```
+
+
+##  DOCKER CHEAT SHEET
+
+```https://collabnix.com/docker-cheatsheet/```
+
+<div>
+  <span align="center">
+  <img alt="logo-ls" title="logo-ls" src="https://raw.githubusercontent.com/sangam14/dockercheatsheets/master/dockercheatsheet1.png">
+    </span>
+</div><br>
