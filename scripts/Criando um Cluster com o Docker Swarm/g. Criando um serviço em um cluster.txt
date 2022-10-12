@@ -1,0 +1,10 @@
+docker service create --name web-server --replicas 10 -p 80:80 httpd
+
+docker service ps web-server 
+
+docker node update --availability drain aws1
+
+docker service rm web-server
+
+
+

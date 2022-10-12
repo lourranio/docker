@@ -1,0 +1,11 @@
+vagrant init
+code .
+
+	config.vm.provision "shell", path: "instalar-docker.sh"
+
+vagrant up
+
+vagrant ssh
+
+vagrant destroy -f
+
