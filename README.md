@@ -28,3 +28,11 @@ docker push <user-docker-hub>/<app>:<versao>
   <img alt="logo-ls" title="logo-ls" src="https://raw.githubusercontent.com/apurvabhandari/kubernetes/master/multi-master-with-HA.png">
     </span>
 </div><br>
+
+
+## The best Docker base image for your Python application (Sep 2022)
+
+```by Itamar Turner-Trauring
+Last updated 25 Oct 2022, originally created 30 Aug 2021```
+
+https://pythonspeed.com/articles/base-image-python-docker-images/
