@@ -33,6 +33,14 @@ docker push <user-docker-hub>/<app>:<versao>
 ## The best Docker base image for your Python application (Sep 2022)
 
 ```by Itamar Turner-Trauring
-Last updated 25 Oct 2022, originally created 30 Aug 2021```
+Last updated 25 Oct 2022, originally created 30 Aug 2021
+```
 
-https://pythonspeed.com/articles/base-image-python-docker-images/
+``` https://pythonspeed.com/articles/base-image-python-docker-images/ ```
+
+
+## Learning Kubernetes, the Easy Way
+
+``` In this tutorial we learn about Kubernetes and how it can be used to orchestrate containerized applications ```
+
+``` https://towardsdatascience.com/learn-kubernetes-the-easy-way-d1cfa460c013 ```
